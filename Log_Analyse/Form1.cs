@@ -8,7 +8,8 @@ using System.Windows.Forms;
 using ICSharpCode.SharpZipLib.GZip;
 using ICSharpCode.SharpZipLib.Tar;
 using Microsoft.Win32;
-
+ 
+/* 20.02.2017 Son Halidir */
 namespace Log_Analyse
 {
     public partial class Form1 : Form
@@ -374,8 +375,6 @@ namespace Log_Analyse
         private void splitContainer2_Panel1_Paint(object sender, PaintEventArgs e)
         {
         }
-
-       
         private void listBox1_DoubleClick(object sender, EventArgs e)
         {
             try
@@ -404,7 +403,6 @@ namespace Log_Analyse
                 var nppDir = (string) Registry.GetValue("HKEY_LOCAL_MACHINE\\SOFTWARE\\Notepad++", null, null);
                 var nppExePath = Path.Combine(nppDir, "Notepad++.exe");
                 var nppReadmePath = Path.Combine(nppDir, filepath);
-
                 var sb = new StringBuilder();
                 sb.AppendFormat("\"{0}\" -n{1}", nppReadmePath, line);
                 Process.Start(nppExePath, sb.ToString());
