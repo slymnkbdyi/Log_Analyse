@@ -259,3 +259,15 @@ C:\Users\slymnkbdyi\Desktop\Log_Analyse_20_02\Log_Analyse\obj\Debug\Log_Analyse.
 C:\Users\slymnkbdyi\Desktop\Log_Analyse_20_02\Log_Analyse\obj\Debug\Log_Analyse.csproj.GenerateResource.Cache
 C:\Users\slymnkbdyi\Desktop\Log_Analyse_20_02\Log_Analyse\obj\Debug\Log_Analyse.exe
 C:\Users\slymnkbdyi\Desktop\Log_Analyse_20_02\Log_Analyse\obj\Debug\Log_Analyse.pdb
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\bin\Debug\Log_Analyse.exe.config
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\bin\Debug\Log_Analyse.exe
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\bin\Debug\Log_Analyse.pdb
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\bin\Debug\SharpCompress.dll
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.csprojResolveAssemblyReference.cache
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.Form1.resources
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.Form2.resources
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.Properties.Resources.resources
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.csproj.GenerateResource.Cache
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.exe
+C:\Users\dtsis\Documents\GitHub\Log_Analyse\Log_Analyse\obj\Debug\Log_Analyse.pdb
